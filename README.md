@@ -1,8 +1,8 @@
 # News Image 20261124 v3
 
-[![Make.fun competition](https://make.fun/bounty/news-image-20261124/badge.svg)](https://make.fun/bounty/news-image-20261124)
-[![Make.fun rank](https://make.fun/bounty/news-image-20261124/rank/itslanaa/news-image-20261124-v3/badge.svg)](https://make.fun/bounty/news-image-20261124)
-[![Make.fun reward](https://make.fun/bounty/news-image-20261124/reward/itslanaa/news-image-20261124-v3/badge.svg)](https://make.fun/bounty/news-image-20261124)
+[![Make.fun competition](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124)
+[![Make.fun rank](https://make.fun/badge/news-image-20261124/itslanaa/news-image-20261124-v3/rank.svg)](https://make.fun/bounty/news-image-20261124)
+[![Make.fun reward](https://make.fun/badge/news-image-20261124/itslanaa/news-image-20261124-v3/reward.svg)](https://make.fun/bounty/news-image-20261124)
 
 ## The World in One Day — Tuesday 24 November 2026
 
